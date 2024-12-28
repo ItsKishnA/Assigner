@@ -32,7 +32,11 @@ yarn-error.*
 # local env files
 .env*.local
 
+
 # typescript
 *.tsbuildinfo
+
+# git reset HEAD FirebaseConfig.ts
+FirebaseConfig.ts
 
 app-example
